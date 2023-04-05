@@ -1,5 +1,5 @@
 # deplying a pyhtom web aplcation 
-echo "Hello World"
+#echo "Hello World"
 #= shell script
-python('Hello World')
+print('Hello World')
 # python script
