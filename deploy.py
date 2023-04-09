@@ -3,3 +3,5 @@
 #= shell script
 print('Hello World')
 # python script
+#bugs removed
+
