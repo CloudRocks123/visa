@@ -5,3 +5,5 @@ print('Hello World')
 # python script
 #bugs removed
 
+print("car services automated")
+print("hello $user your car needs servicing")
